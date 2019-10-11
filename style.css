@@ -1,0 +1,192 @@
+#div1{
+    position: relative;
+    font-size: 18px;
+    background: white;
+    width: 100%;
+    height: 600px;
+}
+#container{
+    padding-top: 50px;
+    position: relative;
+    color: white;
+}
+#div3{
+    position: relative;
+    padding-top: 50px;
+    font-size: 30px;
+    background: #dcdcdc;
+    width: 100%;
+    height: 300px;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+}
+#centered{
+    position:absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    font-size: 35px; 
+    color: white;
+    font-family: Trebuchet MS;
+}
+#education{
+    font-family: Courier;
+    color: black;
+    text-align:center;
+    height: 80px;
+    font-size: 40px;
+}
+#WWU{
+    text-align: center;
+    font-size: 22px;
+    color: black;
+}
+#school{
+    transform: translateX(-30%);
+    height: -200px;
+    text-align: right;
+    font-size: 18px;
+    font-weight:normal;
+}
+#div4{
+    position: relative;
+    padding-top: 80px;
+    font-size: 30px;
+    background: white;
+    width: 100%;
+    height: 800px;
+}
+#contact{
+    position: relative;
+    padding-top: 40px;
+    font-size: 30px;
+    background: white;
+    width: 100%;
+    height: 190px;
+}
+#name{
+    position: absolute;
+    font-size: 70px;
+    top:50%;
+    left:50%;
+    font-family: Courier;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: black;
+}
+#contact_info{
+    text-align: center;
+    font-size: 14px;
+    font-family: Helvetica;
+}
+#logo{
+    position: relative;
+    top:15%;
+    left: 55%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+#contact_title{
+    font-family: Courier;
+    color: black;
+    text-align: center;
+    height: 80px;
+    font-size: 40px;
+}
+#gh_logo{
+    position: absolute;
+    top:69%;
+    left:49.3%;
+}
+#li_logo{
+    position: absolute;
+    top:86%;
+    left:24.5%;
+}
+#row::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+#project_header{
+    font-family: Courier;
+    color: black;
+    text-align:center;
+    height: 50px;
+    font-size: 40px;
+}
+#column{
+    float: left;
+    width: 27%;
+    padding: 60px;
+}
+#project_title{
+    padding-top: 20px;
+    color: black;
+    text-align: center;
+    font-size: 23px;
+    font-family: Ariel;
+    font-weight: bold;
+}
+#project_description{
+    padding-top: 20px;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    font-family: Ariel;
+}
+#linkedin{
+    position: absolute;
+    font-size: 20px;
+    top:90%;
+    left:50%;
+    font-family: Arial;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: black;
+}
+#github{
+    position: absolute;
+    font-size: 20px;
+    top:100%;
+    left:50%;
+    font-family: Arial;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: black;
+}
+#resume{
+    position: absolute;
+    font-size: 20px;
+    top:80%;
+    left:50%;
+    font-family: Arial;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: black;
+}
+#button1{
+    background-color: white;
+    border: black;
+    color: black;
+    padding: 13px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: 2px solid;
+    border-radius: 4px;
+}
+#name2{
+    position: absolute;
+    font-size: 26px;
+    top:65%;
+    left:50%;
+    font-family: Courier;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: black;
+}
