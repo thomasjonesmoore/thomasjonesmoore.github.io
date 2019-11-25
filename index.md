@@ -32,7 +32,7 @@
       <div id="centered">TECHNOLOGY LOVER. GO GETTER. <br>
 	HARD WORKER. BOUNDLESS ENTHUSIASM.</div>
      </div>
-    <div id="div4">
+<!--    <div id="div4">
       <div id="project_header">PROJECTS</div>
       <div id="row">
 	<div id="column">
@@ -62,7 +62,7 @@
 	  iGraph subpackages in R.</div>
 	</div>
       </div>
-    </div>
+    </div> -->
     <div id="div3">
       <div id="education">EDUCATION</div>
       <div id="WWU"><b>Western Washington University</b><br>
